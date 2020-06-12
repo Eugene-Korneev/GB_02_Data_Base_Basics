@@ -1,1 +1,4 @@
-# GB_02_Data_Base_Basics
+# "Data Base Basics" training course
+
+### Requirements:
+- mysql 8
